@@ -1,0 +1,100 @@
+{
+    "1250491936989642825": {
+        "channel_id": 1310602751566282782,
+        "welcome_message": "Bienvenue {user.mention} ! N'h\u00e9site pas \u00e0 aller voir notre bot (`/help` dans <#1286931943958777973> ) et d'accepter le <#1266302301279096914> ! Nous sommes maintenant `{total_members}` sur le serveur gr\u00e2ce \u00e0 toi !",
+        "send_invite": true,
+        "invite_link": "https://discord.gg/wTMaJc5mKn",
+        "dm_message": null,
+        "enable_greetings": true
+    },
+    "1161710637005680700": {
+        "channel_id": 1346506644439437313,
+        "welcome_message": "Bienvenue {user.name} sur NebuCraft !",
+        "send_invite": false,
+        "dm_message": null,
+        "enable_greetings": false
+    },
+    "1195747655142363146": {
+        "channel_id": 1195747655725351004,
+        "welcome_message": "Souhaitez tous la bienvenue \u00e0 {user.mention} ! Gr\u00e2ce \u00e0 lui, nous sommes maintenant `{total_members}` dans le serveur !",
+        "send_invite": true,
+        "invite_link": "https://discord.gg/aydYzEaJat",
+        "dm_message": null,
+        "enable_greetings": true
+    },
+    "1317864082346479636": {
+        "channel_id": 1321140181012844554,
+        "welcome_message": "{user.mention",
+        "send_invite": false,
+        "dm_message": "{user.mention}",
+        "enable_greetings": true
+    },
+    "1331152317138993194": {
+        "channel_id": 1331152317138993197,
+        "welcome_message": "Bienvenue {user.mention} ! Nous sommes maintenant `{total_members}` !",
+        "send_invite": false,
+        "dm_message": null,
+        "enable_greetings": true
+    },
+    "1341762128054325308": {
+        "channel_id": 1341777347048636476,
+        "welcome_message": "{user.mention}",
+        "send_invite": true,
+        "invite_link": "https://discord.gg/hvXUNjTbrp",
+        "dm_message": null,
+        "enable_greetings": false
+    },
+    "1335645513378431037": {
+        "channel_id": 1339693230639546419
+    },
+    "1245372187892908073": {
+        "channel_id": 1352944709122916372,
+        "welcome_message": "Bienvenue {user.mention} qui est le {total_members}\u00e8 membre !",
+        "send_invite": false,
+        "dm_message": null,
+        "enable_greetings": false
+    },
+    "1167884401686872244": {
+        "channel_id": 1231534454909042758,
+        "welcome_message": "Bienvenue {user.mention} ! Nous sommes maintenant {total_members} !",
+        "send_invite": false,
+        "dm_message": null,
+        "enable_greetings": true
+    },
+    "1109521423397040198": {
+        "channel_id": 1191159100193644655,
+        "welcome_message": "Bienvenue \u00e0 toi {user.mention} !",
+        "send_invite": false,
+        "dm_message": null,
+        "enable_greetings": true
+    },
+    "1243599125585330327": {
+        "channel_id": 1243599126743093372,
+        "welcome_message": "Souhaitez tous la bienvenue \u00e0 {user.mention} ! Nous sommes maintenant `{total_members}` !",
+        "send_invite": false,
+        "dm_message": null,
+        "enable_greetings": false
+    },
+    "1353036870543610038": {
+        "channel_id": 1353036870543610041,
+        "welcome_message": "hey welcome",
+        "send_invite": true,
+        "invite_link": "https://discord.gg/6AYkvTN8xK",
+        "dm_message": "bruhh",
+        "enable_greetings": true
+    },
+    "1342080770696675351": {
+        "channel_id": 1353380414630133811,
+        "welcome_message": "Bienvenue {user.mention} ! Tu est le {total_members}\u00e8me membre !",
+        "send_invite": false,
+        "dm_message": null,
+        "enable_greetings": false
+    },
+    "1348306314069016612": {
+        "channel_id": 1354142700747624569,
+        "welcome_message": "Member {user.mention} joined, {total_members}th member",
+        "send_invite": false,
+        "dm_message": null,
+        "enable_greetings": false
+    }
+}

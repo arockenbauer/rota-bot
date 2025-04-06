@@ -1,0 +1,417 @@
+{
+    "communautaire": {
+        "roles": {
+            "Admin": {
+                "read_messages": true,
+                "send_messages": true,
+                "manage_channels": true,
+                "manage_roles": true,
+                "kick_members": true,
+                "ban_members": true,
+                "administrator": true
+            },
+            "Modérateur": {
+                "read_messages": true,
+                "send_messages": true,
+                "manage_channels": true,
+                "kick_members": true,
+                "ban_members": true
+            },
+            "Membre": {
+                "read_messages": true,
+                "send_messages": true
+            },
+            "VIP": {
+                "read_messages": true,
+                "send_messages": true,
+                "manage_channels": false,
+                "kick_members": false,
+                "ban_members": false
+            },
+            "Éditeur": {
+                "read_messages": true,
+                "send_messages": true,
+                "manage_channels": true,
+                "kick_members": false,
+                "ban_members": false
+            },
+            "Support": {
+                "read_messages": true,
+                "send_messages": true,
+                "manage_channels": false,
+                "kick_members": false,
+                "ban_members": false
+            },
+            "Graphiste": {
+                "read_messages": true,
+                "send_messages": true,
+                "manage_channels": false,
+                "kick_members": false,
+                "ban_members": false
+            },
+            "Développeur": {
+                "read_messages": true,
+                "send_messages": true,
+                "manage_channels": true,
+                "kick_members": true,
+                "ban_members": false
+            },
+            "Streamer": {
+                "read_messages": true,
+                "send_messages": true,
+                "manage_channels": false,
+                "kick_members": false,
+                "ban_members": false
+            },
+            "Bot": {
+                "read_messages": true,
+                "send_messages": true,
+                "manage_channels": true,
+                "kick_members": true,
+                "ban_members": true,
+                "administrator": true
+            },
+            "Niveau_1": {},
+            "Niveau_2": {},
+            "Niveau_3": {},
+            "Niveau_4": {},
+            "Niveau_5": {},
+            "Niveau_10": {},
+            "Niveau_20": {},
+            "Niveau_30": {},
+            "Niveau_40": {},
+            "Niveau_50": {},
+            "Niveau_60": {},
+            "Niveau_70": {},
+            "Niveau_80": {},
+            "Niveau_90": {},
+            "Niveau_100": {}
+        },
+        "categories": {
+            "📚 Général": {
+                "channels": [
+                    "📖 discussions",
+                    "📢 annonces",
+                    "🎨 suggestions",
+                    "🎭 événements",
+                    "🎉 introductions",
+                    "📝 récapitulatifs",
+                    "🔔 notifications",
+                    "💬 discussion"
+                ]
+            },
+            "💬 Textes": {
+                "channels": [
+                    "💬 général",
+                    "📋 assistance",
+                    "📜 règles",
+                    "📌 logs",
+                    "💻 support technique",
+                    "🔧 guides d'installation",
+                    "📚 FAQ",
+                    "📤 suggestions",
+                    "🛠️ améliorations"
+                ]
+            },
+            "🎮 Jeux": {
+                "channels": [
+                    "🎮 lobbies",
+                    "🕹️ tournois",
+                    "📖 guides",
+                    "🏆 classements",
+                    "🎯 défis",
+                    "📋 campagnes",
+                    "🗨️ discussions",
+                    "🏗️ chantiers",
+                    "📂 archives"
+                ]
+            },
+            "🎨 Création": {
+                "channels": [
+                    "🎨 graphisme",
+                    "🛠️ développement",
+                    "🎥 streaming",
+                    "📱 support mobile",
+                    "📦 modélisation 3D",
+                    "💼 portfolio",
+                    "📋 brainstorming",
+                    "🎬 projets spéciaux",
+                    "💻 logiciels"
+                ]
+            },
+            "💻 Support": {
+                "channels": [
+                    "💻 questions",
+                    "🔧 configuration",
+                    "📋 bug reports",
+                    "💡 suggestions",
+                    "🛠️ dépannage",
+                    "📚 documentation",
+                    "📨 support utilisateur",
+                    "🔒 sécurité",
+                    "🖥️ assistance technique"
+                ]
+            },
+            "🔒 Admins": {
+                "channels": [
+                    "⚙️ settings",
+                    "📋 logs",
+                    "🔒 sécurité",
+                    "📚 documentation",
+                    "🛡️ audit",
+                    "📈 statistiques",
+                    "💬 discussions stratégiques",
+                    "💾 sauvegardes",
+                    "🔧 maintenance"
+                ]
+            }
+        }
+    },
+
+    "community": {
+        "categories": {
+            "📊 Server Stats": {
+                "channels": [
+                    "📊 Members-Bots",
+                    "📈 Leaderboard",
+                    "📉 Levels"
+                ]
+            },
+            "🔒 Verification & Important": {
+                "channels": [
+                    "✅ Verification",
+                    "📃 Rules",
+                    "📢 Announcements",
+                    "📝 Suggestions",
+                    "🎉 Giveaways",
+                    "📅 Events",
+                    "🗳️ Vote"
+                ]
+            },
+            "🔔 Notifications": {
+                "channels": [
+                    "📺 Twitch",
+                    "🎬 YouTube",
+                    "📹 Twitch Clips"
+                ]
+            },
+            "🏅 Hall of Fame": {
+                "channels": [
+                    "🏆 Meme of the Week",
+                    "📸 Photo of the Week",
+                    "🎨 Fan Art of the Week"
+                ]
+            },
+            "💬 Main Hall": {
+                "channels": [
+                    "💬 Chatting",
+                    "😂 Memes",
+                    "📸 Photos",
+                    "📹 Videos",
+                    "🎨 Fan Art"
+                ]
+            },
+            "📢 Advertisements": {
+                "channels": [
+                    "🛒 Self Advertising",
+                    "📣 Stream Advertising",
+                    "📺 YouTube Advertising"
+                ]
+            },
+            "🤖 Bots": {
+                "channels": [
+                    "🤖 Bot Commands",
+                    "📊 Level Stats"
+                ]
+            },
+            "✨ Server Boosters": {
+                "channels": [
+                    "💎 Booster Chat",
+                    "🎙️ Booster VC"
+                ]
+            },
+            "👑 Subscribers": {
+                "channels": [
+                    "💬 Subscribers Chat",
+                    "🎙️ Subscribers VC"
+                ]
+            },
+            "🎤 Voice Chats": {
+                "channels": [
+                    "📞 Waiting Room",
+                    "🎙️ Meetup",
+                    "🎥 Streaming",
+                    "🎶 Music VC",
+                    "🎶 Music VC 2",
+                    "🎶 Music VC 3"
+                ]
+            },
+            "🎵 Music": {
+                "channels": [
+                    "🎹 Beat Makers",
+                    "🎧 Song Requests"
+                ]
+            },
+            "🔨 Moderation": {
+                "channels": [
+                    "📜 Logs",
+                    "🗨️ Staff Chat",
+                    "🎙️ Staff VC"
+                ]
+            }
+        },
+        "roles": {
+            "🔒 DM Close": {},
+            "📨 Ask for DM": {},
+            "✅ Verified": {},
+            "🟢 Viewer (Level 1*)": {},
+            "🟡 DM Open": {},
+            "🔵 DM Status": {},
+            "🔴 Active Viewer (Level 10*)": {},
+            "⭐ #Good Viewer (Level 20*)": {},
+            "🌟 Ace Viewer (Level 40*)": {},
+            "🏆 ● Legend Viewer (Level 60*)": {},
+            "💯 100 Godlike Viewer (Level 100*)": {},
+            "🔥 Mythic Viewer (Level 80*)": {},
+            "🔇 Muted": {},
+            "📝 Member": {},
+            "🏅 LeaderBoard": {},
+            "🥇 First Place (Leaderboard)": {},
+            "🎵 (Music bots)": {},
+            "👥 (ServerStats bot for member count)": {},
+            "📈 (Arcane bot for levels and leaderboard)": {},
+            "⚙️ (MEE6 bot for verification and moderation)": {},
+            "🤖 Bot": {},
+            "💎 Server Booster": {},
+            "📺 Twitch Subscriber": {},
+            "🌟 Special": {},
+            "🎥 Youtuber": {},
+            "🎮 Twitch Streamer": {},
+            "📱 Social": {},
+            "👮 Server Staff": {},
+            "🚓 ? Trial Mod": {},
+            "🛡️ Moderator": {},
+            "🛡️ Head Moderator": {},
+            "🔧 Administrator": {},
+            "🔧 Head Administrator": {},
+            "👑 Co Owner": {},
+            "👑 Owner": {},
+            "🛠️ Staff": {}
+        }
+    },
+    "minecraft": {
+        "categories": {
+            "⚙️ Info": {
+                "channels": [
+                    "📜 règles",
+                    "📢 annonces",
+                    "🗺️ serveur",
+                    "🎉 événements",
+                    "💬 news"
+                ]
+            },
+            "💬 Communauté": {
+                "channels": [
+                    "💬 général",
+                    "😂 memes",
+                    "📸 photos",
+                    "📹 vidéos",
+                    "🎨 créations"
+                ]
+            },
+            "🛒 Échanges": {
+                "channels": [
+                    "💰 commerces",
+                    "📦 ressources",
+                    "⚒️ artisanat"
+                ]
+            },
+            "📢 Publicité": {
+                "channels": [
+                    "📢 pubs-joueurs",
+                    "🎥 pubs-streams",
+                    "📺 pubs-vidéos"
+                ]
+            },
+            "🔔 Notifications": {
+                "channels": [
+                    "📺 twitch",
+                    "🎬 youtube",
+                    "🛠️ dev-updates"
+                ]
+            },
+            "🎮 Minecraft": {
+                "channels": [
+                    "🛏️ survie",
+                    "⚔️ pvp",
+                    "🏰 créatif",
+                    "🎲 mini-jeux",
+                    "🧙 events"
+                ]
+            },
+            "🔧 Aide": {
+                "channels": [
+                    "💻 support",
+                    "🔧 bugs",
+                    "📚 faq",
+                    "🛠️ suggestions"
+                ]
+            },
+            "🤖 Bots": {
+                "channels": [
+                    "🤖 commandes",
+                    "📊 stats",
+                    "🕹️ jeux-bots"
+                ]
+            },
+            "🎵 Musique": {
+                "channels": [
+                    "🎧 song-requests",
+                    "🎤 karaoke",
+                    "🎶 music-chat"
+                ]
+            },
+            "🔒 Staff": {
+                "channels": [
+                    "🔒 privé-staff",
+                    "📝 logs",
+                    "🔧 modération"
+                ]
+            }
+        },
+        "roles": {
+            "👤 Joueur": {},
+            "✨ Membre": {},
+            "⚔️ PVP Master": {},
+            "🏰 Architecte": {},
+            "🎲 Mini-Jeux Master": {},
+            "🧙 Event Master": {},
+            "🎥 YouTuber": {},
+            "📺 Streamer": {},
+            "💎 VIP": {},
+            "🎵 DJ": {},
+            "🤖 Bot": {},
+            "🔒 Modérateur": {},
+            "🔧 Admin": {},
+            "👑 Propriétaire": {}
+        }
+    },
+      "vide": {
+        "roles": {
+            "Admin": {
+                "read_messages": true,
+                "send_messages": true,
+                "manage_channels": true,
+                "manage_roles": true,
+                "kick_members": true,
+                "ban_members": true,
+                "administrator": true
+            }
+        },
+        "categories": {
+            "main": {
+              "channels": ["général"]
+          }
+       }
+    }
+}

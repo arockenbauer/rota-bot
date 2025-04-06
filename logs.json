@@ -1,0 +1,326 @@
+{
+    "1250491936989642825": {
+        "enabled_logs": {
+            "channel_delete": true,
+            "member_unban": true,
+            "role_create": true,
+            "role_delete": true,
+            "voice_update": true,
+            "member_ban": true,
+            "message_delete": true,
+            "message_edit": true,
+            "user_update": true,
+            "member_update": true,
+            "channel_create": true
+        },
+        "log_channels": {
+            "member_update": 1321072638046634099,
+            "user_update": 1321072639669833760,
+            "message_edit": 1321072641380974614,
+            "message_delete": 1321072643633578056,
+            "channel_create": 1321072645831135232,
+            "channel_delete": 1321072647269777460,
+            "role_create": 1321072648439992382,
+            "role_delete": 1321072650184818751,
+            "voice_update": 1321072651606953996,
+            "member_ban": 1321072653708296193,
+            "member_unban": 1321072655331233853
+        }
+    },
+    "1245372187892908073": {
+        "enabled_logs": {
+            "member_update": true,
+            "user_update": true,
+            "message_edit": true,
+            "message_delete": true,
+            "channel_create": true,
+            "channel_delete": true,
+            "role_create": true,
+            "role_delete": true,
+            "voice_update": true,
+            "member_ban": true,
+            "member_unban": true
+        },
+        "log_channels": {
+            "member_update": 1341472652140740630,
+            "user_update": 1341472652140740630,
+            "message_edit": 1341472652140740630,
+            "message_delete": 1341472652140740630,
+            "channel_create": 1341472652140740630,
+            "channel_delete": 1341472652140740630,
+            "role_create": 1341472652140740630,
+            "role_delete": 1341472652140740630,
+            "voice_update": 1341472652140740630,
+            "member_ban": 1341472652140740630,
+            "member_unban": 1341472652140740630
+        }
+    },
+    "1301571650445115503": {
+        "enabled_logs": {
+            "member_update": true,
+            "user_update": true,
+            "message_edit": true,
+            "message_delete": true,
+            "channel_create": true,
+            "channel_delete": true,
+            "role_create": true,
+            "role_delete": true,
+            "voice_update": true,
+            "member_ban": true,
+            "member_unban": true
+        },
+        "log_channels": {
+            "member_update": 1321085465247617034,
+            "user_update": 1321085466178490422,
+            "message_edit": 1321085468032634901,
+            "message_delete": 1321085469663952989,
+            "channel_create": 1321085471530418257,
+            "channel_delete": 1321085472340181055,
+            "role_create": 1321085474051461170,
+            "role_delete": 1321085475686973481,
+            "voice_update": 1321085477612294194,
+            "member_ban": 1321085478992347147,
+            "member_unban": 1321085480506490952
+        }
+    },
+    "1305525154708983869": {
+        "enabled_logs": {
+            "member_unban": true,
+            "member_ban": true,
+            "role_delete": true,
+            "voice_update": true,
+            "channel_create": true,
+            "role_create": true,
+            "channel_delete": true,
+            "message_delete": true,
+            "message_edit": true,
+            "user_update": true,
+            "member_update": true
+        },
+        "log_channels": {
+            "member_update": 1321404267927703562,
+            "user_update": 1321404268640604191,
+            "message_edit": 1321404270272184341,
+            "message_delete": 1321404271694053397,
+            "channel_create": 1321404273279504394,
+            "channel_delete": 1321404274944774154,
+            "role_create": 1321404275871715359,
+            "role_delete": 1321404278027587674,
+            "voice_update": 1321404279218638919,
+            "member_ban": 1321404280460148807,
+            "member_unban": 1321404281915441194
+        }
+    },
+    "1195747655142363146": {
+        "enabled_logs": {
+            "message_delete": true,
+            "message_edit": true,
+            "member_ban": true,
+            "channel_create": true,
+            "channel_delete": true,
+            "role_delete": true,
+            "member_unban": true,
+            "role_create": true,
+            "voice_update": true,
+            "member_update": true,
+            "user_update": true
+        },
+        "log_channels": {
+            "member_update": 1321468325406183425,
+            "user_update": 1321468327654199400,
+            "message_edit": 1321468329466134559,
+            "message_delete": 1321468327654199400,
+            "channel_create": 1321468331999629344,
+            "channel_delete": 1321468333635408034,
+            "role_create": 1321468335103410227,
+            "role_delete": 1321468336113979453,
+            "voice_update": 1321468337913466932,
+            "member_ban": 1321468339104645232,
+            "member_unban": 1321468340778307724
+        }
+    },
+    "1161710637005680700": {
+        "enabled_logs": {
+            "member_update": true,
+            "user_update": true,
+            "message_edit": true,
+            "message_delete": true,
+            "channel_create": true,
+            "role_delete": true,
+            "role_create": true,
+            "channel_delete": true,
+            "voice_update": true,
+            "member_ban": true,
+            "member_unban": true
+        },
+        "log_channels": {
+            "member_update": 1325783650679132201,
+            "user_update": 1325783651279179818,
+            "message_edit": 1325783652658970755,
+            "message_delete": 1325783653829185617,
+            "channel_create": 1325783655225757769,
+            "channel_delete": 1325783656148504586,
+            "role_create": 1325783656878309406,
+            "role_delete": 1325783658422079528,
+            "voice_update": 1325783659701342300,
+            "member_ban": 1325783660758044724,
+            "member_unban": 1325783661835980864
+        }
+    },
+    "1329528318336303134": {
+        "enabled_logs": {
+            "member_update": true,
+            "user_update": true,
+            "message_edit": true,
+            "message_delete": true,
+            "channel_create": true,
+            "channel_delete": false,
+            "role_create": true,
+            "role_delete": false,
+            "voice_update": true,
+            "member_ban": true,
+            "member_unban": true
+        },
+        "log_channels": {
+            "member_update": 1335709763312422994,
+            "user_update": 1335709764071723083,
+            "message_edit": 1335709765480873996,
+            "message_delete": 1335709766831570997,
+            "channel_create": 1335709767632687176,
+            "channel_delete": 1335709769020997652,
+            "role_create": 1335709769914388563,
+            "role_delete": 1335709770937532589,
+            "voice_update": 1335709772204343316,
+            "member_ban": 1335709773215039488,
+            "member_unban": 1335709773940789288
+        }
+    },
+    "1342080770696675351": {
+        "enabled_logs": {
+            "member_update": true,
+            "message_edit": true,
+            "message_delete": true,
+            "role_create": true,
+            "role_delete": true,
+            "voice_update": true,
+            "member_ban": true,
+            "member_unban": true
+        },
+        "log_channels": {
+            "member_update": 1342084163460923393,
+            "user_update": 1342084164308172890,
+            "message_edit": 1342084165129998346,
+            "message_delete": 1342084166161924196,
+            "channel_create": 1342084166984007681,
+            "channel_delete": 1342084168175063073,
+            "role_create": 1342084169181958226,
+            "role_delete": 1342084169970483210,
+            "voice_update": 1342084170926522419,
+            "member_ban": 1342084172075896832,
+            "member_unban": 1342084172860227696
+        }
+    },
+    "1341762128054325308": {
+        "enabled_logs": {
+            "member_update": false
+        },
+        "log_channels": {
+            "member_update": 1342444163978891294,
+            "user_update": 1342444165501554761,
+            "message_edit": 1342444166730223647,
+            "message_delete": 1342444167783252040,
+            "channel_create": 1342444168496283649,
+            "channel_delete": 1342444169343402087,
+            "role_create": 1342444170102571029,
+            "role_delete": 1342444171662852190,
+            "voice_update": 1342444172447059988,
+            "member_ban": 1342444173399162911,
+            "member_unban": 1342444174779088958
+        }
+    },
+    "1348224648839565352": {
+        "enabled_logs": {},
+        "log_channels": {
+            "member_update": 1348224820281606215,
+            "user_update": 1348224821288370196,
+            "message_edit": 1348224822731341825,
+            "message_delete": 1348224823419076680,
+            "channel_create": 1348224824425713755,
+            "channel_delete": 1348224825872744500,
+            "role_create": 1348224826577256580,
+            "role_delete": 1348224827554795540,
+            "voice_update": 1348224828062302251,
+            "member_ban": 1348224829404479579,
+            "member_unban": 1348224830889263107
+        }
+    },
+    "1348225213560651776": {
+        "enabled_logs": {
+            "member_update": true,
+            "server_update": true,
+            "message_edit": true,
+            "message_delete": true
+        },
+        "log_channels": {
+            "member_update": 1348225387338928191,
+            "server_update": 1348225387834118165,
+            "message_edit": 1348225388782026864,
+            "message_delete": 1348225390099038250
+        }
+    },
+    "1348306314069016612": {
+        "enabled_logs": {
+            "member_update": true,
+            "server_update": true,
+            "message_edit": true,
+            "message_delete": true
+        },
+        "log_channels": {
+            "member_update": 1348308760342298727,
+            "server_update": 1348308760988221544,
+            "message_edit": 1348308761747656747,
+            "message_delete": 1348308762728861717
+        }
+    },
+    "1243599125585330327": {
+        "enabled_logs": {
+            "message_delete": true,
+            "member_update": true,
+            "server_update": true,
+            "message_edit": true
+        },
+        "log_channels": {
+            "member_update": 1351596972678582404,
+            "server_update": 1351596973567901791,
+            "message_edit": 1351596974889107456,
+            "message_delete": 1351596975803596914
+        }
+    },
+    "1344430430501474386": {
+        "enabled_logs": {
+            "message_edit": false,
+            "message_delete": false,
+            "server_update": false,
+            "member_update": false
+        },
+        "log_channels": {
+            "member_update": 1354425509148102862,
+            "server_update": 1354425511115231282,
+            "message_edit": 1354425512034042053,
+            "message_delete": 1354425513313046710
+        }
+    },
+    "1354837448567554048": {
+        "enabled_logs": {
+            "member_update": true,
+            "message_delete": true,
+            "message_edit": true
+        },
+        "log_channels": {
+            "member_update": 1354917209620877453,
+            "server_update": 1354917210442829926,
+            "message_edit": 1354917217204043897,
+            "message_delete": 1354917217975795873
+        }
+    }
+}
